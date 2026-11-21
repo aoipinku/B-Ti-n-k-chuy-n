@@ -1,0 +1,6 @@
+{
+  "name": "Bà Tiên Giấc Ngủ",
+  "description": "Sáng tác truyện cổ tích trị liệu độc nhất vô nhị trước giờ ngủ dành riêng cho từng bé, chuyển hóa nhẹ nhàng sự kiện ban ngày qua ẩn dụ phép thuật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
